@@ -1,0 +1,6 @@
+The UnClock App
+A fully fledged Clock App(Useless)
+Features:
+World Clock: Whenever the Add button is clicked Realtime of a random location in earth is shown
+Stopwatch : A stopwatch that has absurd units of time whenever its used
+Timer: Timer starts at an input time but icounts up while the user experience a humorous waiting game
